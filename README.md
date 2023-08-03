@@ -1,6 +1,6 @@
 ## Olá, eu sou Caio Cezar, estudante de T.I.
  
-![Skarzyll GitHub stats](https://github-readme-stats.vercel.app/api?username=skarzyll&show_icons=true&theme=dark)
+![Skarzyll GitHub stats](https://github-readme-stats.vercel.app/api?username=skarzyll&showicons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll)](https://github.com/anuraghazra/github-readme-stats)
 
 

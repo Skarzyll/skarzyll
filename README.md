@@ -1,9 +1,9 @@
 ## Olá, eu sou Caio Cezar, estudante de T.I.
-<div>
-  <a href="https://github.com/Skarzyll">
-  <img height="180em" src="![Skarzyll's GitHub stats](https://github-readme-stats.vercel.app/api?username=skarzyll&show_icons=true&theme=dark)">
-  <img height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll)](https://github.com/anuraghazra/github-readme-stats)">
-</div>
+ 
+![Skarzyll GitHub stats](https://github-readme-stats.vercel.app/api?username=skarzyll&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

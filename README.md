@@ -1,6 +1,6 @@
 ## Olá, eu sou Caio Cezar, estudante de T.I.
  
-<img height="285em" src="https://github-readme-stats.vercel.app/api?username=skarzyll&show_icons=true" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=skarzyll&show_icons=true" /> <a href="https://github.com/anuraghazra/github-readme-stats"><img height="180em" src="https://camo.githubusercontent.com/efa47f5ecbb812d26fef6c4850ad0f0e5e0d330bb62e818128862de8405ffec2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d736b61727a796c6c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll" style="max-width: 100%;"></a>
 
 
 <div style="display: inline_block"><br>

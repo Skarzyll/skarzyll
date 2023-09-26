@@ -1,6 +1,10 @@
-## Olá, eu sou Caio Cezar, estudante de T.I.
+## Olá, eu sou Caio Cezar. Junior Front-end desenvolvedor.
 
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Skarzyll&show_icons=true&theme=dark#gh-dark-mode-only" /> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarzyll&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skarzyll&layout=compact" style="max-width: 100%;"> </a>
+| ![Followers](https://img.shields.io/github/followers/skarzyll) | ![Stars](https://img.shields.io/github/stars/skarzyll?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=Skarzyll&show_icons=true&theme=dark#gh-dark-mode-only" /> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;"> </a>
+
+![](https://github-profile-trophy.vercel.app/?username=skarzyll&theme=onedark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />

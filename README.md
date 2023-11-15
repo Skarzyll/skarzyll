@@ -1,6 +1,6 @@
 ## Olá, eu sou Caio Cezar. Junior Front-end desenvolvedor.
 
-| ![Followers](https://img.shields.io/github/followers/skarzyll) | ![Stars](https://img.shields.io/github/stars/skarzyll?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| ![Followers](https://img.shields.io/github/followers/skarzyll) | ![Stars](https://img.shields.io/github/stars/skarzyll?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) | <img src="https://komarev.com/ghpvc/?username=skarzyll&LogoColor=g">
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Skarzyll&show_icons=true&theme=dark#gh-dark-mode-only" /> <a href="https://github.com/anuraghazra/github-readme-stats"> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=skarzyll&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;"> </a>
 

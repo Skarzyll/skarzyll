@@ -1,4 +1,4 @@
-## Olá, eu sou Caio Cezar. Desenvolvedor Full-Stack Júnior.
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFFFFF&repeat=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Caio+Cezar.+;Desenvolvedor+Full-Stack+J%C3%BAnior.)](https://git.io/typing-svg)
 
 | ![Followers](https://img.shields.io/github/followers/skarzyll) | ![Stars](https://img.shields.io/github/stars/skarzyll?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 

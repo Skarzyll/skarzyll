@@ -1,4 +1,4 @@
-## Olá, eu sou Caio Cezar. Junior Front-end desenvolvedor.
+## Olá, eu sou Caio Cezar. Desenvolvedor Full-Stack Júnior.
 
 | ![Followers](https://img.shields.io/github/followers/skarzyll) | ![Stars](https://img.shields.io/github/stars/skarzyll?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
 
